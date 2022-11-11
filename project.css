@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+.score {
+  background: #0a0001;
+  font-family: 'Wallpoet', cursive;
+  font-size: 90px;
+  font-weight: 400;
+  line-height: 127px;
+  letter-spacing: 0em;
+  text-align: center;
+  font-size: 90px;
+  color: #F94F6D;
+  width: 120px;
+  margin: 20px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  max-width: 50%;
+  margin: auto;
+  border: 3px solid white;
+  border-radius: 10px;
+  border-style: solid;
+  background: #01064d;
+  padding-bottom: 25px;
+}
+
+.column {
+  font-size: 32px;
+  margin-bottom: 38px;
+  font-family: 'Wallpoet', cursive;
+}
+
+.add-btn {
+  box-sizing: border-box;
+  background: #01064d;
+  color: #9AABD8;
+  font-family: 'Wallpoet', cursive;
+
+  
+  border: 2px solid #9AABD8;
+  border-radius: 5px;
+}
+
+h3 {
+  font-family: Verdana;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 36px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: white;
+}
